@@ -1,5 +1,7 @@
 # AgriTech---USGS-LIDAR-Challenge
+
 week 6 challenge@10 academy
+
 <h1>Overview</h1>
 <b>Business Need</b>
 At AgriTech, we are very interested in how water flows through a maize farm field. This knowledge will help us improve our research on new agricultural products being tested on farms.
@@ -27,6 +29,7 @@ Topographic wetness index (TWI) - as an additional column returned with geopanda
 Any industry working with satellite, or agriculture would likely be impressed to see a project like this on a portfolio.
 
 <b>Skills:</b>
+	
 Working with satellite imagery as well as geographical data files
 Exposure to building API that interacts with satellite imagery
 Code packaging and modularity
@@ -34,6 +37,7 @@ Building data pipelines and orchestrations workflows
 
 
 <b>Knowledge:</b>
+	
 Satellite and geographical Image processing 
 Functional and Modular Coding
 API access to Big Data
